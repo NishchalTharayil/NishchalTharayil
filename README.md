@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning React.js and Node.js  
   
 
-- ❓ Ask me about anything related to Full Stack Java Developer  
+- ❓ Ask me about anything related to Full Stack Java Development  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
