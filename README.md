@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nishchal T S, a full-time full-stack Java Developer 👨‍💻  🚀</div>  
+### <div align="center">I'm Nishchal T S, a Passionate Full-Stack Java Developer 👨‍💻  🚀</div>  
   
 
 - 🔭 I’m currently Training in Kodnest  
