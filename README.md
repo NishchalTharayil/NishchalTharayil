@@ -127,13 +127,10 @@ class Nishchal:
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NishchalTharayil&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1C110A&title_color=E0913F&icon_color=E0913F&text_color=FFF6EA&ring_color=E0913F" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NishchalTharayil&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs,issues&hide_border=true&bg_color=1C110A&title_color=E0913F&icon_color=E0913F&text_color=FFF6EA&ring_color=E0913F" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=NishchalTharayil&hide_border=true&background=1C110A&ring=E0913F&fire=E0913F&currStrNum=FFF6EA&sideNums=FFF6EA&currStrLabel=E0913F&sideLabels=E0913F&dates=C9A27A&stroke=3B2314" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NishchalTharayil&bg_color=1C110A&color=FFF6EA&line=E0913F&point=FFF6EA&area=true&area_color=8A4B1F&hide_border=true&custom_title=Contributions%20over%20time" alt="Contribution graph" width="100%" />
-</p>
 
 ---
 
